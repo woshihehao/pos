@@ -7,7 +7,7 @@
 1. 将该项目Clone到自己的本地电脑上：
 
   ```
-  git clone git@github.com:iamcoach/pos.git
+  https://github.com/geekmooc/pos.git
   ```
 
 2. 按照教练要求，将该项目中的某一作业文件夹连同```lib```文件夹复制一份到其他位置的新文件夹内；
