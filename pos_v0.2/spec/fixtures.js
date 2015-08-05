@@ -1,4 +1,4 @@
-function loadAllItems() {
+ function loadAllItems() {
     return [
         {
             barcode: 'ITEM000000',
